@@ -1,1 +1,1 @@
-# qlauncher
+# qlauncher — new minecraft launcher.
